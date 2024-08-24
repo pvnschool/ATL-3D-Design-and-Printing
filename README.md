@@ -1,8 +1,14 @@
-
+- what can be done with 3d printing: https://www.youtube.com/shorts/lcQQXGkwnYg https://www.youtube.com/shorts/lcjRCIg_dgY
+- color 3d print https://www.youtube.com/shorts/sfbtLXC1uJI
+- how 3d printer moves https://www.youtube.com/watch?v=9cLFAI1_fmU
+- long conveyor belt https://www.youtube.com/shorts/QvTMmoM13io
+- demonstration https://www.youtube.com/watch?v=a9yRDgnLLbU starts from 5:18
 - https://aim.gov.in/pdf/Level-1.pdf
-- https://www.youtube.com/watch?v=a9yRDgnLLbU
-- https://www.youtube.com/watch?v=xBUcvuPGohY
+- ATL keychain 3d printer in action https://www.youtube.com/watch?v=xBUcvuPGohY
 
+![image](https://github.com/user-attachments/assets/7c80bade-e857-4fb6-8a1a-9e7d3239d88e)
+![image](https://github.com/user-attachments/assets/2e3f0b8c-8b2c-4bc7-b13e-e36027511e1b)
+![image](https://github.com/user-attachments/assets/1779ec6b-e36b-4d81-b24e-94f81a72039c)
 
 
 ### 3D Designing & Printing Explained
