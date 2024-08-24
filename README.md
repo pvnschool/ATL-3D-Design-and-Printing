@@ -7,7 +7,7 @@
 - ATL keychain 3d printer in action https://www.youtube.com/watch?v=xBUcvuPGohY
 
 ![image](https://github.com/user-attachments/assets/7c80bade-e857-4fb6-8a1a-9e7d3239d88e)
-![image](https://github.com/user-attachments/assets/2e3f0b8c-8b2c-4bc7-b13e-e36027511e1b)
+![image](https://github.com/user-attachments/assets/9698dd77-ab9a-48b0-8bd7-ac01e3c5ebdb)
 ![image](https://github.com/user-attachments/assets/1779ec6b-e36b-4d81-b24e-94f81a72039c)
 
 
