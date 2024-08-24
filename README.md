@@ -11,6 +11,15 @@
 ![image](https://github.com/user-attachments/assets/9698dd77-ab9a-48b0-8bd7-ac01e3c5ebdb)
 ![image](https://github.com/user-attachments/assets/1779ec6b-e36b-4d81-b24e-94f81a72039c)
 
+![image](https://github.com/user-attachments/assets/7ce06d73-913d-48c7-89c9-d522cc281648)
+![image](https://github.com/user-attachments/assets/62bf6280-1c46-4ba2-be06-1bf2313ebb01)
+![image](https://github.com/user-attachments/assets/9bc66cfc-3f64-448f-8dd1-99ec17a3689d)
+![image](https://github.com/user-attachments/assets/d642ac43-e788-49be-9dbe-83202d10a5a0)
+![image](https://github.com/user-attachments/assets/4c30ba95-d072-42dc-9797-c723f05bd534)
+![image](https://github.com/user-attachments/assets/3a980c59-8e2e-4dbf-9563-24326b7289f1)
+![image](https://github.com/user-attachments/assets/9b783f77-f8b2-4f00-a742-ad3be0634b00)
+![image](https://github.com/user-attachments/assets/83efbebf-24e9-404f-b0e9-57a3f21dc968)
+
 
 ### 3D Designing & Printing Explained
 
