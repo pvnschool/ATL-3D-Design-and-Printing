@@ -7,6 +7,23 @@
 - ATL keychain 3d printer in action https://www.youtube.com/watch?v=xBUcvuPGohY
 - ATL 3d cup demo https://www.youtube.com/watch?v=74ibNu3Y53s
 
+1. changing measurement - length, width, height
+2. aligning 2 objects, grouping,
+3. Align(L), Mirror(M)
+4. rotating vertically 90 degrees ![image](https://github.com/user-attachments/assets/86216a9e-8299-4b25-b799-71c772ee8f47)
+5. rotating horizontally 90 degrees
+6. cut shape using hole ![image](https://github.com/user-attachments/assets/4411ef6e-c555-475c-9c87-0f00b84ef6b3)
+7. duplicating, changing the duplicated to hollow
+8. multicolor shape ![image](https://github.com/user-attachments/assets/e37b44c9-d128-4ceb-9324-43f06e33a851)
+
+Assignment
+1. ![image](https://github.com/user-attachments/assets/c1b0838f-99e2-466c-8cd1-97028e33b4d0)
+2. ![image](https://github.com/user-attachments/assets/e6a24e56-b4bd-456f-969a-19797f04fe2e)
+3. ![image](https://github.com/user-attachments/assets/e9682683-dd51-4e53-8662-c895cf01aaf7)
+
+
+
+
 https://www.tinkercad.com/joinclass
 ![image](https://github.com/user-attachments/assets/7c80bade-e857-4fb6-8a1a-9e7d3239d88e)
 ![image](https://github.com/user-attachments/assets/9698dd77-ab9a-48b0-8bd7-ac01e3c5ebdb)
