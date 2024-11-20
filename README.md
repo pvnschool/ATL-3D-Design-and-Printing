@@ -1,3 +1,9 @@
+https://www.tinkercad.com/joinclass/XMXDXITNP
+![image](https://github.com/user-attachments/assets/6ccde96c-5b08-4457-ac4d-4cc2f670832c)
+![image](https://github.com/user-attachments/assets/cd2848e8-a840-4e00-a046-dcd4f5ce97d2)
+![image](https://github.com/user-attachments/assets/ced6d5eb-a9d0-4dcc-8ce7-c7f573a8ede2)
+<= 2011 birth year - asks for email(if age is 13 & above)
+
 - what can be done with 3d printing: https://www.youtube.com/shorts/lcQQXGkwnYg https://www.youtube.com/shorts/lcjRCIg_dgY
 - color 3d print https://www.youtube.com/shorts/sfbtLXC1uJI
 - how 3d printer moves https://www.youtube.com/watch?v=9cLFAI1_fmU
@@ -21,13 +27,10 @@ Assignment
 2. ![image](https://github.com/user-attachments/assets/e6a24e56-b4bd-456f-969a-19797f04fe2e)
 3. ![image](https://github.com/user-attachments/assets/e9682683-dd51-4e53-8662-c895cf01aaf7)
 
-
-
-
 https://www.tinkercad.com/joinclass
-![image](https://github.com/user-attachments/assets/7c80bade-e857-4fb6-8a1a-9e7d3239d88e)
-![image](https://github.com/user-attachments/assets/9698dd77-ab9a-48b0-8bd7-ac01e3c5ebdb)
-![image](https://github.com/user-attachments/assets/1779ec6b-e36b-4d81-b24e-94f81a72039c)
+![image](https://github.com/user-attachments/assets1/7c80bade-e857-4fb6-8a1a-9e7d3239d88e)
+![image](https://github.com/user-attachments/assets1/9698dd77-ab9a-48b0-8bd7-ac01e3c5ebdb)
+![image](https://github.com/user-attachments/assets1/1779ec6b-e36b-4d81-b24e-94f81a72039c)
 
 ![image](https://github.com/user-attachments/assets/7ce06d73-913d-48c7-89c9-d522cc281648)
 ![image](https://github.com/user-attachments/assets/62bf6280-1c46-4ba2-be06-1bf2313ebb01)
