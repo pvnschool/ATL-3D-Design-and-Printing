@@ -51,7 +51,7 @@ To estimate the printing cost, please test using the following link: [Dwart Indu
 ## Special Features
 - **Codeblocks (Programming-based Designing)** – Use block coding to generate 3D models.
 - **Circuit Integration** – Combine electronic components with 3D models.
-- **Simulating Mechanical Movements** – Check how parts fit and move together.
+- **Simulating Mechanical Movements** – Check how parts fit and move together. Simlab https://www.tinkercad.com/simlab https://www.youtube.com/watch?v=DBhlWtIm1ig https://www.youtube.com/watch?v=XnHdcD6xMMY https://www.youtube.com/playlist?list=PLRXLS33csRK4Z0VKbqyJkBhSrftxBfs4H
 
 ## Exporting & 3D Printing
 - **Exporting as STL, OBJ, or SVG** – Save files for 3D printing or laser cutting.
