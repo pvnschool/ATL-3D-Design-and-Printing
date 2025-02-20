@@ -1,4 +1,14 @@
-https://www.tinkercad.com/joinclass/XMXDXITNP
+Watch these tutorials from [this YouTube playlist](https://www.youtube.com/playlist?list=PL2iXvgrJIzwa8GUky6MC-JhYUH7qNuYg0).
+
+## **Practice Simulating Mechanical Movements**  
+Explore how different parts fit and move together using interactive simulations.
+
+- [SimLab on Tinkercad](https://www.tinkercad.com/simlab)
+- [YouTube Video: Simulating Mechanical Movements](https://www.youtube.com/watch?v=DBhlWtIm1ig)
+- [YouTube Video: Advanced Simulations](https://www.youtube.com/watch?v=XnHdcD6xMMY)
+- [YouTube Playlist: Mechanical Simulations](https://www.youtube.com/playlist?list=PLRXLS33csRK4Z0VKbqyJkBhSrftxBfs4H)
+
+https://www.tinkercad.com/joinclass/W4MSWDQ63
 ![image](https://github.com/user-attachments/assets/6ccde96c-5b08-4457-ac4d-4cc2f670832c)
 ![image](https://github.com/user-attachments/assets/cd2848e8-a840-4e00-a046-dcd4f5ce97d2)
 ![image](https://github.com/user-attachments/assets/ced6d5eb-a9d0-4dcc-8ce7-c7f573a8ede2)
