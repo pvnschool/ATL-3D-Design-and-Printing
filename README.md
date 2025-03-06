@@ -1,6 +1,10 @@
-Watch these tutorials from [this YouTube playlist](https://www.youtube.com/playlist?list=PL2iXvgrJIzwa8GUky6MC-JhYUH7qNuYg0).
+## 2025 March 7 Class 8 
+**designs**: https://github.com/pvnschool/ATL-3D-Design-and-Printing/blob/main/TinkerCAD%20Assignments%20from%20website%20-%20print.pdf
+
+**exam**: https://www.tinkercad.com/joinclass/WSWJXDARH
 
 ## **Practice Simulating Mechanical Movements**  
+Watch these tutorials from [this YouTube playlist](https://www.youtube.com/playlist?list=PL2iXvgrJIzwa8GUky6MC-JhYUH7qNuYg0).
 Explore how different parts fit and move together using interactive simulations.
 
 - [SimLab on Tinkercad](https://www.tinkercad.com/simlab)
